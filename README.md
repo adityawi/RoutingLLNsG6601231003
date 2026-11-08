@@ -34,8 +34,7 @@ independently.
 | Cooja scenarios | Original `.csc` simulation scenario files | [.csc ](https://drive.google.com/drive/folders/1ok8TeLIQEzLOU9faPBDnCjfYJU5k8QqE?usp=sharing) |
 | Mobility traces | Five changing-trajectory realizations for the two- and five-mobile-node configurations | [ Mobility ](https://drive.google.com/drive/folders/1q85_vcWkfLZBBjuBSrDi2XlPAl3UYn46?usp=sharing) |
 | Publikasi 1 | MMDEW: An Adaptive Multi-Metric Entropy-Based Objective Function for Stable and Energy-Efficient RPL Routing in Rural Areas | [ Publikasi 1 ](https://mail.etasr.com/index.php/ETASR/article/view/15261/6288) |
-| Publikasi 2 | DTW-RL: Adaptive Routing Evaluation Interval Algorithm for Stable and
-Reliable RPL in Mobile IoT Networks | [ Publikasi 2 ](https://drive.google.com/file/d/1VJnuRwPqQjjnPaqXbBsitQ3FV5_5dmrK/view?usp=sharing) |
+| Publikasi 2 | DTW-RL: Adaptive Routing Evaluation Interval Algorithm for Stable and Reliable RPL in Mobile IoT Networks | [ Publikasi 2 ](https://drive.google.com/file/d/1VJnuRwPqQjjnPaqXbBsitQ3FV5_5dmrK/view?usp=sharing) |
 
 
 
