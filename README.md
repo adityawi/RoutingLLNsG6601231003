@@ -32,7 +32,7 @@ independently.
 | Contiki-NG project archive | Original project files used for the reported experiments | [Contiki-NG DTW-RL](https://drive.google.com/drive/folders/1CUULWMXHz0nja5dL8iOZuV9uqTjWGDfP?usp=sharing)  |
 | Project configuration | Original `project-conf.h` and related compile-time configuration | [project-conf.h ](https://drive.google.com/file/d/1-Rx8EZkIiGFRKBbaebF3JDS5XP47BZkj/view?usp=sharing) |
 | Cooja scenarios | Original `.csc` simulation scenario files | [.csc ](https://drive.google.com/drive/folders/1ok8TeLIQEzLOU9faPBDnCjfYJU5k8QqE?usp=sharing) |
-| Mobility traces | Five changing-trajectory realizations for the two- and five-mobile-node configurations | [ Mobility ]
+| Mobility traces | Five changing-trajectory realizations for the two- and five-mobile-node configurations | [ Mobility ](https://drive.google.com/drive/folders/1q85_vcWkfLZBBjuBSrDi2XlPAl3UYn46?usp=sharing) |
 
 
 
